@@ -3,4 +3,4 @@ In this example we will see the analysis of AR (2) using MATLAB. For that, From 
                              
                              ####stock_price= xlsread('data.xlsx’,'Data','B: B')\\
 
-After loading the data, we begin the analysis of an AR (2). Something very important before the analysis, we should know if the process is causal and stationary.
+After loading the data, we begin the analysis of AR (2). Something very important before the analysis, we should know if the process is causal and stationary.
